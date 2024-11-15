@@ -6,3 +6,6 @@
 ## to get tracked my file - git add gitpractice  ( folder name)
 ## git add remote origin (url)
 ## git remote -v
+## C:\ml_project>git config user.name "harleen kaur"
+#### C:\ml_project>git config user.email "harleenkaurhoraa@gmail.com"
+### jjj ==
