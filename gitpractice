@@ -1,0 +1,4 @@
+## git init - to install and verify the git
+## git status 
+## git commit -m "this is my first commit"
+## to get tracked my file - git add gitpractice  ( folder name)
