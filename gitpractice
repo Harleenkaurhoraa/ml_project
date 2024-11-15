@@ -11,3 +11,7 @@
 ### jjj ==
 ## git branch ( main branch) to add story in it git branch developer ( new branch name)
 ## git checkout developer
+## git add 
+## git commit -m "developerstorycomplete"
+## to merge the story with main branch 
+## to delete story (git branch -d developer)
